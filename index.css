@@ -1,0 +1,33 @@
+img{
+  length : 20px;
+}
+h1{
+
+  font-style: oblique;
+  color: lightyellow;
+}
+img{
+  width: 350px;
+
+}
+h3{
+  color: orange;
+  font-style: italic;
+  font-size: 25px;
+}
+p{
+  color: black;
+  font-size: 30px;
+}
+
+h4{
+  font-style: italic;
+  color: orange;
+}
+button{
+  background-color: lightyellow;
+  font-color: white;
+}
+background-color{
+  filter: blur(100px black);
+}
