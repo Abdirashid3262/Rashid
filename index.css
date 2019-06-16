@@ -5,10 +5,11 @@ h1{
 
   font-style: oblique;
   color: lightyellow;
+  text-align: center;
 }
 img{
   width: 350px;
-
+  align: center;
 }
 h3{
   color: orange;
@@ -28,6 +29,10 @@ button{
   background-color: lightyellow;
   font-color: white;
 }
-background-color{
-  filter: blur(100px black);
+body{
+  background-image: url(img/C5.jpg);
+  background-size: 2009px;
+}
+p{
+  color: lightyellow;
 }
